@@ -31,7 +31,3 @@ Button3.addEventListener('click',()=>{
 // PinkBtn.addEventListener('click',()=>{
 //     model.style.filter = ''
 // })
-
-Buy.addEventListener("click", ()=>{
-    if()
-})
